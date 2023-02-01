@@ -1,2 +1,3 @@
 # vim_setting
-使えそうなvimの設定
+
+使えそうな vim や shell の設定
